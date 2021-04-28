@@ -1,0 +1,37 @@
+.shopping-box{
+    width: 400px;
+    background-color: green;
+    padding: 2rem;
+    margin: 2rem auto;
+}
+
+h1{
+
+    color: white;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.shopping-form{
+
+    color: yellow;
+}
+
+input,button{
+    border: none;
+    border-radius: 25px;
+    padding: 0.5em 1em;
+}
+
+ul{
+    list-style: none;
+    color: white;
+}
+
+span{
+    margin-right: 15px;
+}
+
+li{
+    margin-top: 1em;
+}
